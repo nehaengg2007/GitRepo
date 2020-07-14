@@ -1,2 +1,6 @@
 const a=50;
-const c=100;
+
+const b=100;
+console.log (Hello);
+
+
